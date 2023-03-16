@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aayushya&#x27;s Personal Website",
+    "description": "",
+    "home_page_url": "https://aayushyaranjan.github.io",
+    "feed_url": "https://aayushyaranjan.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aayushya Ranjan"
+    },
+    "items": [
+        {
+            "id": "https://aayushyaranjan.github.io/to-august.html",
+            "url": "https://aayushyaranjan.github.io/to-august.html",
+            "title": "To August",
+            "summary": "To August, With you the waining leaves always meant the rising pain. The absurd loneliness seemed to envelope the miniscule emerging happiness. Be gentle now. My legs are tired. I look at the skies of the leaving monsoon, And no echo. I've sat now. I'm&hellip;",
+            "content_html": "<p>To August,<br>With you the waining leaves always meant the rising pain. <br>The absurd loneliness seemed to envelope the miniscule emerging happiness.<br>Be gentle now.<br>My legs are tired.<br>I look at the skies of the leaving monsoon,<br>And no echo.<br>I've sat now.<br>I'm tired of walking.<br>I've been meaning to lay down,<br>But I am also scared of sleeping.<br>Be gentle now.<br>Just this once, for my sake August,<br>Be gentle for my sake.</p>",
+            "author": {
+                "name": "Aayushya Ranjan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-16T17:18:27+05:30",
+            "date_modified": "2023-03-16T17:18:27+05:30"
+        }
+    ]
+}

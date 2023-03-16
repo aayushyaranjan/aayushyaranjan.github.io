@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Aayushya&#x27;s Personal Website</title>
+    <link href="https://aayushyaranjan.github.io/feed.xml" rel="self" />
+    <link href="https://aayushyaranjan.github.io" />
+    <updated>2023-03-16T17:18:27+05:30</updated>
+    <author>
+        <name>Aayushya Ranjan</name>
+    </author>
+    <id>https://aayushyaranjan.github.io</id>
+
+    <entry>
+        <title>To August</title>
+        <author>
+            <name>Aayushya Ranjan</name>
+        </author>
+        <link href="https://aayushyaranjan.github.io/to-august.html"/>
+        <id>https://aayushyaranjan.github.io/to-august.html</id>
+
+        <updated>2023-03-16T17:18:27+05:30</updated>
+            <summary>
+                <![CDATA[
+                    To August, With you the waining leaves always meant the rising pain. The absurd loneliness seemed to envelope the miniscule emerging happiness. Be gentle now. My legs are tired. I look at the skies of the leaving monsoon, And no echo. I've sat now. I'm&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To August,<br>With you the waining leaves always meant the rising pain. <br>The absurd loneliness seemed to envelope the miniscule emerging happiness.<br>Be gentle now.<br>My legs are tired.<br>I look at the skies of the leaving monsoon,<br>And no echo.<br>I've sat now.<br>I'm tired of walking.<br>I've been meaning to lay down,<br>But I am also scared of sleeping.<br>Be gentle now.<br>Just this once, for my sake August,<br>Be gentle for my sake.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
