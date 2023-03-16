@@ -3,12 +3,32 @@
     <title>Aayushya&#x27;s Blog</title>
     <link href="https://aayushyaranjan.github.io/feed.xml" rel="self" />
     <link href="https://aayushyaranjan.github.io" />
-    <updated>2023-03-16T17:35:50+05:30</updated>
+    <updated>2023-03-16T18:28:01+05:30</updated>
     <author>
         <name>Aayushya Ranjan</name>
     </author>
     <id>https://aayushyaranjan.github.io</id>
 
+    <entry>
+        <title>Testing testing... Earth to Hari Nagar</title>
+        <author>
+            <name>Aayushya Ranjan</name>
+        </author>
+        <link href="https://aayushyaranjan.github.io/testing-testing-earth-to-hari-nagar.html"/>
+        <id>https://aayushyaranjan.github.io/testing-testing-earth-to-hari-nagar.html</id>
+
+        <updated>2023-03-16T18:28:01+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Hari Nagar, I have been living here since the last 8 years and I still don't know shit about the place. It's spooky at night, playful in the evening and eerily quiet in the afternoons. The best time to visit this corner of West Delhi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hari Nagar, I have been living here since the last 8 years and I still don't know shit about the place. It's spooky at night, playful in the evening and eerily quiet in the afternoons. The best time to visit this corner of West Delhi is 5 in the morning. You can hear a small commotion but try smoking in the clean morning air. There is nothing like it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Draft Post</title>
         <author>
