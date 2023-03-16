@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Aayushya&#x27;s Blog",
+    "title": "Aayushya Ranjan",
     "description": "",
     "home_page_url": "https://aayushya.in",
     "feed_url": "https://aayushya.in/feed.json",
@@ -14,14 +14,14 @@
             "url": "https://aayushya.in/testing-testing-earth-to-hari-nagar.html",
             "title": "Testing testing... Earth to Hari Nagar",
             "summary": "Hari Nagar, I have been living here since the last 8 years and I still don't know shit about the place. It's spooky at night, playful in the evening and eerily quiet in the afternoons. The best time to visit this corner of West Delhi&hellip;",
-            "content_html": "<p>Hari Nagar, I have been living here since the last 8 years and I still don't know shit about the place. It's spooky at night, playful in the evening and eerily quiet in the afternoons. The best time to visit this corner of West Delhi is 5 in the morning. You can hear a small commotion but try smoking in the clean morning air. There is nothing like it.</p>",
+            "content_html": "<p>Hari Nagar, I have been living here since the last 8 years and I still don't know shit about the place. It's spooky at night, playful in the evening and eerily quiet in the afternoons. The best time to visit this corner of West Delhi is 5 in the morning. You can hear a small commotion but try smoking in the clean morning air. There is nothing like it.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://aayushya.in/media/posts/2/Screenshot-from-2021-07-23-01-30-57.png\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)\" srcset=\"https://aayushya.in/media/posts/2/responsive/Screenshot-from-2021-07-23-01-30-57-xs.png 300w ,https://aayushya.in/media/posts/2/responsive/Screenshot-from-2021-07-23-01-30-57-sm.png 480w ,https://aayushya.in/media/posts/2/responsive/Screenshot-from-2021-07-23-01-30-57-md.png 768w\"></figure>",
             "author": {
                 "name": "Aayushya Ranjan"
             },
             "tags": [
             ],
             "date_published": "2023-03-16T18:28:01+05:30",
-            "date_modified": "2023-03-16T18:28:01+05:30"
+            "date_modified": "2023-03-16T22:28:51+05:30"
         },
         {
             "id": "https://aayushya.in/draft-post.html",
