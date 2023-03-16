@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Aayushya&#x27;s Blog</title>
-    <link href="https://aayushyaranjan.github.io/feed.xml" rel="self" />
-    <link href="https://aayushyaranjan.github.io" />
+    <link href="https://aayushya.in/feed.xml" rel="self" />
+    <link href="https://aayushya.in" />
     <updated>2023-03-16T18:28:01+05:30</updated>
     <author>
         <name>Aayushya Ranjan</name>
     </author>
-    <id>https://aayushyaranjan.github.io</id>
+    <id>https://aayushya.in</id>
 
     <entry>
         <title>Testing testing... Earth to Hari Nagar</title>
         <author>
             <name>Aayushya Ranjan</name>
         </author>
-        <link href="https://aayushyaranjan.github.io/testing-testing-earth-to-hari-nagar.html"/>
-        <id>https://aayushyaranjan.github.io/testing-testing-earth-to-hari-nagar.html</id>
+        <link href="https://aayushya.in/testing-testing-earth-to-hari-nagar.html"/>
+        <id>https://aayushya.in/testing-testing-earth-to-hari-nagar.html</id>
 
         <updated>2023-03-16T18:28:01+05:30</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Aayushya Ranjan</name>
         </author>
-        <link href="https://aayushyaranjan.github.io/draft-post.html"/>
-        <id>https://aayushyaranjan.github.io/draft-post.html</id>
+        <link href="https://aayushya.in/draft-post.html"/>
+        <id>https://aayushya.in/draft-post.html</id>
 
         <updated>2023-03-16T17:35:50+05:30</updated>
             <summary>
